@@ -6,7 +6,7 @@
 - 💬 Ask me about anything related to programming, dotnet, C#
 - 📫 How to reach me: [link](https://nurlanvalizada.com/)
 
-![Nurlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurlanvalizada&show_icons=true&theme=dark&hide_border=true)
+![Nurlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurlanvalizada&show_icons=true&theme=dark&hide_border=true&show_owner=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurlanvalizada&theme=dark&show_icons=true&hide_border=true)
 
