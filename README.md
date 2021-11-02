@@ -2,7 +2,6 @@
 
 - 🔭 I’m Senior Software Enginner and currently working on [Tayqatech](http://tayqatech.com/)
 - 🌱 I’m currently learning Nodejs and Blazor
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about anything related to programming, dotnet, C#
 - 📫 How to reach me: [link](https://nurlanvalizada.com/)
 
