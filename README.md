@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurlanvalizada&theme=dark&show_icons=true&hide_border=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurlanvalizada&repo=ProgrammingInCSharpCourse)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurlanvalizada&repo=ProgrammingInCSharpCourse&show_icons=true&theme=dark&hide_border=true&show_owner=true)
 
