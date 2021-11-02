@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurlanvalizada&repo=ProgrammingInCSharpCourse&show_icons=true&theme=dark&hide_border=true&show_owner=true)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurlanvalizada&repo=DDD.CleanArchitecture&show_icons=true&theme=dark&hide_border=true&show_owner=true)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurlanvalizada&repo=HttpPerformance&show_icons=true&theme=dark&hide_border=true&show_owner=true)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurlanvalizada&repo=AspNetCoreDynamicProxyExample&show_icons=true&theme=dark&hide_border=true&show_owner=true)
+
